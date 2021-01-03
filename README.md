@@ -5,6 +5,8 @@
 https://fund.eastmoney.com/data/fundranking.html#tgp;c0;r;s1nzf;pn50;ddesc;qsd20200103;qed20210103;qdii;zq;gg;gzbd;gzfs;bbzt;sfbb <br>
 混合型：<br>
 https://fund.eastmoney.com/data/fundranking.html#thh;c0;r;s1nzf;pn50;ddesc;qsd20200103;qed20210103;qdii;zq;gg;gzbd;gzfs;bbzt;sfbb <br>
+前50排名
+
 
 2. 根据分析结果，选择持仓比例
 
