@@ -3,5 +3,5 @@ Unlike the normal procedures, this html contains "dynamic" contents. Therefore, 
 <br>
 Using the webdriver, we first use "self-defined" date range(xxxx-xx-xx -- xxxx-xx-xx) to search for the first 50 funds('混合型'). <br>
 &emsp; It is noted that the first 50 funds will be enough, we've found out that  20, 25, 30, 35 will generate similar results. There's no need to 
-&emsp; include more funds into the stats<br>
-Then we 
+&emsp; include more funds into the stats. <br>
+Then for each funds, we scrapt from the url and generate the top 10 holdings for each fund.
