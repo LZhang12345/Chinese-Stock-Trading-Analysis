@@ -15,9 +15,9 @@ https://fund.eastmoney.com/data/fundranking.html#thh;c0;r;s1nzf;pn50;ddesc;qsd20
 &emsp; 这个信息的可靠性就越低。<br>
 &emsp; 2）很明显我们不可能获取及时的基金仓位变化情况，但是我们可以根据尽最大可能提升这个数据的可靠性。比如我们可以再某个时间段内对基金收益率进行排名，然后这些获取最近一个季度的持仓情况。<br>
 &emsp; 我们测试了各种策略，就目前来说收益率最好的策略是，获取当前4周的基金排名以及仓位情况，选出10支来进行未来2周/1周的持仓策略 <br>
-&emsp; 4周/2周 <br>
+&emsp; 4周/2周 2021/04/07 -- 2021/06/25<br>
 &emsp; ![alt text](https://github.com/LZhang12345/Chinese-Stock-Trading-Analysis/blob/main/Strategy2/4weeks:2weeks.png) <br>
-&emsp; 4周/1周 <br>
+&emsp; 4周/1周 2021/04/07 -- 2021/06/25<br>
 &emsp; ![alt text](https://github.com/LZhang12345/Chinese-Stock-Trading-Analysis/blob/main/Strategy2/4weeks:1week.png) <br>
 &emsp; 我们可以看到，2周表现得更好且更稳定。我们可以发现，这种策略没有办法回避回调带来的影响，但是可以最大程度地在指数上扬的时候增加收益 <br>
 
