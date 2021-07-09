@@ -20,7 +20,7 @@ https://fund.eastmoney.com/data/fundranking.html#thh;c0;r;s1nzf;pn50;ddesc;qsd20
 &emsp; ![alt text](https://github.com/LZhang12345/Chinese-Stock-Trading-Analysis/blob/main/Strategy2/4weeks:1week.png) <br>
 &emsp; 我们可以看到，2周表现得更好且更稳定。我们可以发现，这种策略没有办法回避回调带来的影响，但是可以最大程度地在指数上扬的时候增加收益 <br>
 
-根据估算，收益率大致与当年第50位左右的基金持平。罗列出近十年来所有基金的收益情况，统计如下：
+根据估算，收益率大致与当年第50位左右的基金持平。罗列出近十年来所有基金的收益情况，统计如下：<br>
 ![image](https://user-images.githubusercontent.com/51413837/125009706-af589b00-e02a-11eb-8ac0-60fe87584c45.png)
 
 
