@@ -20,6 +20,20 @@ https://fund.eastmoney.com/data/fundranking.html#thh;c0;r;s1nzf;pn50;ddesc;qsd20
 &emsp; ![alt text](https://github.com/LZhang12345/Chinese-Stock-Trading-Analysis/blob/main/Strategy2/4weeks:1week.png) <br>
 &emsp; 我们可以看到，2周表现得更好且更稳定。我们可以发现，这种策略没有办法回避回调带来的影响，但是可以最大程度地在指数上扬的时候增加收益 <br>
 
+根据估算，收益率大致与当年第50位左右的基金持平。罗列出近十年来所有基金的收益情况，统计如下：
+2020	1	2
+2019	0.8	1.8
+2018	0.05	1.05
+2017	0.4	1.4
+2016	0.14	1.14
+2015	0.81	1.81
+2014	0.48	1.48
+2013	0.36	1.36
+2012	0.15	1.15
+2011	-0.1	0.9
+		22.7480532![image](https://user-images.githubusercontent.com/51413837/125009706-af589b00-e02a-11eb-8ac0-60fe87584c45.png)
+
+
 2. 根据分析结果，选择持仓比例
 
 3. 比较与上一季度的持仓情况，选择性调整
